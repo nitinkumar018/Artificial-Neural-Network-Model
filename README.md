@@ -1,4 +1,4 @@
-# Model 1 includes following files: Assign18 Neural Networks(Nitin).ipynb, Alphabets_data.csv, Neural Networks.docx
+# Model 1 includes following files: Assign18 Neural Networks(Nitin).ipynb,   Alphabets_data.csv,   Neural Networks.docx
 
 ## The dataset provided, "Alphabets_data.csv", consists of labeled data suitable for a classification task aimed at identifying different alphabets
 ## Classification Using Artificial Neural Networks with Hyperparameter Tuning on Alphabets Data
