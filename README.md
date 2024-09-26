@@ -8,4 +8,4 @@
 ## Hyperparameters, such as the number of hidden layers, neurons per hidden layer, activation function to observe their impact on model performance.
 ## TensorFlow, Keras 
 
-# Model 2 includes following files: 
+# Model 2 includes following files: ANN Model_diabetes.ipynb, pima-indians-diabetes.data.csv
